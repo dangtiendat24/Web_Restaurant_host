@@ -16,7 +16,7 @@
 // builder.Services.AddDbContext<AppDbContext>(options =>
 //     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// //// C?u hình EF Core v?i SQL Server
+// ////// C?u hình EF Core v?i SQL Server
 // //builder.Services.AddDbContext<AppDbContext>(options =>
 // //    options.UseSqlServer(
 // //        builder.Configuration.GetConnectionString("DefaultConnection"),

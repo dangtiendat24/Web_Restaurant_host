@@ -46,7 +46,7 @@ pipeline {
             echo 'Triển khai thành công lên Render!'
         }
         failure {
-            echo 'Pipeline thất bại. Kiểm tra log để biết chi tiết'
+            echo 'Pipeline thất bại. Kiểm tra log để biết chi tiết.'
         }
     }
 }
